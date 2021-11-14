@@ -1,1 +1,4 @@
-# CMPE_283
+# CMPE_283 Assignment Lists
+Assignment 1
+Assignment 2
+Assignment 3
